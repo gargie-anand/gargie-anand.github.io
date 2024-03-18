@@ -33,3 +33,11 @@
 - Out of the total of 1,470 employees who left the company, 237 were in the age group 26-35. They were working overtime and earning up to $5,000.
 - Tools Used: Microsoft Power BI
 
+
+## Certifications
+Google Data Analytics	| Coursera | 2023 | Online
+Microsoft Excel	| Udemy	| 2022 | Online
+Data Tracking using Excel	| LinkedIn Learning	| 2022 | Online
+Strategic Planning | LinkedIn Learning | 2022 | Online
+Creative Writing | Coursera | 2021 | Online
+
