@@ -35,9 +35,9 @@
 
 
 ## Certifications
-Google Data Analytics	| Coursera | 2023 | Online
-Microsoft Excel	| Udemy	| 2022 | Online
-Data Tracking using Excel	| LinkedIn Learning	| 2022 | Online
-Strategic Planning | LinkedIn Learning | 2022 | Online
-Creative Writing | Coursera | 2021 | Online
+- Google Data Analytics	| Coursera | 2023 | Online
+- Microsoft Excel	| Udemy	| 2022 | Online
+- Data Tracking using Excel	| LinkedIn Learning	| 2022 | Online
+- Strategic Planning | LinkedIn Learning | 2022 | Online
+- Creative Writing | Coursera | 2021 | Online
 
