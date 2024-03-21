@@ -33,6 +33,11 @@
 - Out of the total of 1,470 employees who left the company, 237 were in the age group 26-35. They were working overtime and earning up to $5,000.
 - Tools Used: Microsoft Power BI
 
+### Super Store Sales Analysis Dashboard
+- Build a Super Store Sales Analytics Dashboard, Product Analysis Dashboard, Shipping Analysis Dashboard, Customer Order Tracker Dashboard and Sales Forecast Dashboard for the duration of 4 years.
+- The YoY Monthly sales increased from 2014 to 2017.
+- The Total Sales and Total Profit of the company from 2014 to 2017 stand at $2.3 million and $286 thousand respectively.
+- Tools Used: Microsoft Power BI
 
 ## Certifications
 - Google Data Analytics	| Coursera | 2023 | Online
@@ -40,4 +45,3 @@
 - Data Tracking using Excel	| LinkedIn Learning	| 2022 | Online
 - Strategic Planning | LinkedIn Learning | 2022 | Online
 - Creative Writing | Coursera | 2021 | Online
-
