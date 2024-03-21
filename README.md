@@ -3,11 +3,14 @@
 
 #### Technical Skills: Python, SQL, Tableau
 
-## Education				       		
-- Post Graduate | M.A., Economics	| Banasthali University, Rajasthan (_April 2023_)	 			        		
-- Graduate | B.A., Economics, English Literature, Computer Application	| Banasthali University, Rajasthan (_May 2021_)
-- XII | Commerce | Birla Balika Vidyapeeth, Pilani (_2018_)
-- X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
+## Education	
+
+Degree | Course | School/University 
+--- | --- | --- 
+Post Graduate | M.A., Economics	| Banasthali University, Rajasthan (_April 2023_)	 			        		
+Graduate | B.A., Economics, English Literature, Computer Application	| Banasthali University, Rajasthan (_May 2021_)
+XII | Commerce | Birla Balika Vidyapeeth, Pilani (_2018_)
+X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
 
 ## Work Experience
 **Data Research Intern @ Factly Media & Research (_June 2023- December 2023_)**
