@@ -1,7 +1,7 @@
 
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Tableau
+#### Technical Skills: Python, SQL, Power BI
 
 ## Education	
 
