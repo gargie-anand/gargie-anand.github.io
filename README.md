@@ -1,6 +1,3 @@
-
-
-
 ### Technical Skills: Python, SQL, Power BI
 
 ## Education	
@@ -50,6 +47,7 @@ X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
 
 | Name | Issuer | Year | Mode of Learning| Certificate
 | --- | --- | --- | --- | ---
+| Data Storytelling	| DataCamp | 2024 | Online | [Link](https://drive.google.com/file/d/1zcRzI7bNijdVv8o3mdc5BcQxon7c72Lv/view?usp=drive_link)
 | Google Data Analytics	| Coursera | 2023 | Online | [Link](https://drive.google.com/file/d/1Cfxu0rMoYzFhUqb2y5O_F_rUT1Twi0Py/view?usp=drive_link)
 | Microsoft Excel	| Udemy	| 2022 | Online | [Link](https://drive.google.com/file/d/14cn95UX4FpRu5mCHoIQsv2ciQ7JATzAC/view?usp=drive_link)
 | Data Tracking using Excel	| LinkedIn Learning	| 2022 | Online | [Link](https://drive.google.com/file/d/1XpwMltvika8tVQQ8LGSz2cOyrdG08zjE/view?usp=drive_link)
