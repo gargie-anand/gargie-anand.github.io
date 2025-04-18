@@ -10,6 +10,12 @@ XII | Commerce | Birla Balika Vidyapeeth, Pilani (_2018_)
 X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
 
 ## Work Experience
+**Research Associate @ International Management Institute, New Delhi (_August 2024- Ongoing_)**
+- Working on existing research papers by analyzing datasets and providing econometric insights using EViews and Excel. 
+- Conducting statistical evaluations and data processing to support faculty-led projects in finance and economics.
+-  Ensuring data accuracy and integrity while managing datasets and performing statistical evaluations. 
+
+
 **Data Research Intern @ Factly Media & Research (_June 2023- December 2023_)**
 - Fetched and organized raw government datasets from online sources using tools like Tabula.
 - Expertly cleaned and validated data with OpenRefine for enhanced accuracy and integrity for subsequent analysis.
