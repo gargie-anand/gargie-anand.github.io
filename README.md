@@ -53,6 +53,8 @@ X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
 
 | Name | Issuer | Year | Mode of Learning| Certificate
 | --- | --- | --- | --- | ---
+| Bloomberg Market Concepts | Bloomberg | 2025 | Online | [Link](https://drive.google.com/file/d/1QGxWWbRg8P4fnIyiwcMM1hzPqiEoAsOg/view?usp=drive_link)
+| Using Public Policy for Social Change | Coursera | 2025 | Online | [Link](https://drive.google.com/file/d/1oHn8FCzkkdVpeRR3ebVWq1Rfk6oPSzoV/view?usp=drive_link)
 | AI Business Fundamentals | DataCamp | 2024 | Online | [Link](https://drive.google.com/file/d/172VeiIoSioy7Pgl8p7-WbzPFmhd_INuL/view?usp=drive_link)
 | Data Storytelling	| DataCamp | 2024 | Online | [Link](https://drive.google.com/file/d/1zcRzI7bNijdVv8o3mdc5BcQxon7c72Lv/view?usp=drive_link)
 | Google Data Analytics	| Coursera | 2023 | Online | [Link](https://drive.google.com/file/d/1Cfxu0rMoYzFhUqb2y5O_F_rUT1Twi0Py/view?usp=drive_link)
