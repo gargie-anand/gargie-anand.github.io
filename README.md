@@ -11,7 +11,7 @@ X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
 
 ## Work Experience
 **Research Associate @ International Management Institute, New Delhi (_August 2024- Ongoing_)**
-- Extracting financial and economic data from Bloomberg and other sources, and analyzing datasets to provide econometric insights using EViews, Excel, R and Python.
+- Extracting financial and economic data from Bloomberg and other sources, and analyzing datasets to provide econometric insights using EViews, Excel, R and Python, while independently managing datasets and research workflows.
 - Conducting statistical evaluations and data processing to support faculty-led projects in finance and economics.
 - Writing and contributing to research papers, ensuring clear presentation of findings and alignment with academic standards.
 - Ensuring data accuracy and integrity while managing datasets and performing statistical evaluations.
