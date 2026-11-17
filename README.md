@@ -67,6 +67,7 @@ X | General | Birla Balika Vidyapeeth, Pilani (_2016_)
 
 | Name | Issuer | Year | Certificate
 | --- | --- | --- | ---
+| AI Fundamentals | DataCamp | 2026 | [Link](https://drive.google.com/file/d/18dVS4c1TX80SFQ-N19KLZfbAtqoll9P-/view?usp=drive_link)
 | Python for Data Science, AI & Development | Coursera | 2026 | [Link](https://drive.google.com/file/d/1nKPOgkuQGWo45iFdUGc8RNIM0UPW2fut/view?usp=drive_link)
 | Bloomberg Market Concepts | Bloomberg | 2025 | [Link](https://drive.google.com/file/d/1QGxWWbRg8P4fnIyiwcMM1hzPqiEoAsOg/view?usp=drive_link)
 | Using Public Policy for Social Change | Coursera | 2025 | [Link](https://drive.google.com/file/d/1oHn8FCzkkdVpeRR3ebVWq1Rfk6oPSzoV/view?usp=drive_link)
